@@ -1,0 +1,21 @@
+Tematy projektów zespołowych dla studentów specjalność Sztuczna Inteligencja i Uczenie Maszynowe
+
+1.  Automatyczne rozwiązywanie gry Sokoban (opiekun: Prof. Anna Fabijańska).
+
+Chciałabym aby w ramach projektu studenci w pierwszej kolejności opracowali metodę generacji takich map w grze, które są możliwe do przejścia. Następnie, chciałabym, aby zastosowali uczenie ze wzmocnieniem (reinforcement learning, RL), do nauczenia komputera znajdowania rozwiania danej planszy. Oczywiście RL to nie jest jedyna możliwość, więc jak zaproponują inne techniki też nie będę ich ograniczać.
+
+2. Transfer stylów muzycznych (opiekun: Prof. Anna Fabijańska)
+
+Chciałabym, aby w ramach tego projektu studenci zastosowali sieci generacyjne aby przetransformować np. muzykę klasyczną na muzykę rockową :) Ew. rock na disco polo :) W obrazach takie rzeczy się robi np. Mona Lisa a la Picasso, więc na danych audio też powinni dać radę.
+
+Ew. inna wersja tego tematu to po prostu generacja tekstu piosenki i muzyki w danym stylu - też z wykorzystaniem AI.
+
+
+3. Generacja sekwencji sterującej ruchem robota wielokończynowego (opiekun - prof. Krzysztof Ślot, mgr Izabela Perenc-Puchalska)
+
+Celem projektu będzie opracowanie metody uczenia generacji sekwencji sygnałów sterujących serwomechaznizmami wielokończynowego robota, zapewniającej przemieszczanie się w zadanym kierunku. Elementy projektu będą obejmować: konstrukcję robota (najlepiej, na bazie dostępnego w sprzedaży modułu), opracowanie metody zbierania informacji o ruchu robota (niezbędnej dla dokonywania oceny jakości sterowania), opracowanie metody uczenia i opracowanie procedury weryfikacji działania.
+
+
+4. Interfejs komunikacji z komputerem (telefonem) dla osób ze skrajnie ograniczonymi funkcjami motorycznymi  (opiekun - prof. Krzysztof Ślot, mgr Izabela Perenc-Puchalska)
+
+Celem projektu będzie realizacja interfejsu pozwalającego osobom z silną deprywacją motoryki na korzystanie z- komputera, sterowanie systemami w pokoju (światło, temperatura, telweizja, radio). Podstawą komunikacji będzie analiza mimiki twarzy lub aktywności oczu lub głosu. Chciałbym, aby urządzenie było adresowane do konkrentej osoby ze schorzeniem rozważanego typu, więc prosiłbym o zorientowanie się czy wśród osób, które Państwo znacie, nie ma potencjalnego odbiorcy.
